@@ -1,0 +1,26 @@
+{
+  "name": "skeleton-3d",
+  "version": "1.0.0",
+  "description": "3d Skeletal System",
+  "main": "ctm.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Positive-Promises/Skeleton-3d.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Positive-Promises/Skeleton-3d/issues"
+  },
+  "homepage": "https://github.com/Positive-Promises/Skeleton-3d#readme",
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
